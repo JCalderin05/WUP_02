@@ -37,13 +37,12 @@ $H_A$ There is a difference in the vitamin C content of cabbages based on the cu
 data = veggy
 ```
 
-Vitamin C content is a numerical variable, and cultivation method is a factor. 
+Vitamin C content is a numerical variable, and cultivation method is a categorical variable. Therefore, we use the Numerical-Cat helper file.
 
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
-## Descriptive Results
 
 ### Graphical Descriptive Results
 
